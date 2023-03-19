@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/activity_user_main.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/activity_user_main.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/activity_home.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/fragment_saved.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/fragment_saved.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/fourth_activity.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/fourth_activity.xml"
+    },
+    {
+        "merged": "com.taoai.fixit.app-mergeDebugResources-54:/layout/fragment_discover.xml",
+        "source": "com.taoai.fixit.app-main-57:/layout/fragment_discover.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/fragment_discover.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/fragment_discover.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/fragment_chat.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/login_activity.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/login_activity.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/register_activity.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/register_activity.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/fragment_profile.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/third_activity.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/third_activity.xml"
+    },
+    {
+        "merged": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-mergeDebugResources-54:/layout/second_activity.xml",
+        "source": "/home/mikef0x/.gradle/daemon/7.4/com.taoai.fixit.app-main-57:/layout/second_activity.xml"
+    }
+]

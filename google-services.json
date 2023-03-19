@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "445208045351",
+    "project_id": "fixit-381111",
+    "storage_bucket": "fixit-381111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445208045351:android:bb4b85519e0b958e506b02",
+        "android_client_info": {
+          "package_name": "com.taoai.fixit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445208045351-9ai2mlishapguumguismk4n8aligjtki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taoai.fixit",
+            "certificate_hash": "5cf90de80a2a29f0a2461a357f3ec284b5e0f9cd"
+          }
+        },
+        {
+          "client_id": "445208045351-8p9d08nes08g3la54vo8uqicpjices2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDSipzs2FQ_JLi2xccTffs5y8B-3b5hRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445208045351-8p9d08nes08g3la54vo8uqicpjices2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

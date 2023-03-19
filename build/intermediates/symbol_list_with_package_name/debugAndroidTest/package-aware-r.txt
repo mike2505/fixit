@@ -1,0 +1,3 @@
+com.taoai.fixit.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
